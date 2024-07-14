@@ -19,6 +19,8 @@ I am a **Computer Engineering graduate** passionate about **Web Development**, *
 - **ASP.NET**
 - **C#**
 - **Object Oriented Programming**
+- **Enterprise Architecture**
+- **Onion Architecture**
 
 ### Data Science:
 - **Python**
