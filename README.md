@@ -1,4 +1,4 @@
-# UfukCetinkaya_57
+# UfukCetinkaya57
 
 # Hi there, I'm Ufuk! 👋
 
