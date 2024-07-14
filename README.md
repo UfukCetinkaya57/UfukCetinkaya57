@@ -17,7 +17,9 @@ I am a **Computer Engineering graduate** passionate about **Web Development**, *
 
 ### Backend Development:
 - **ASP.NET**
-  
+- **C#**
+- **Object Oriented Programming**
+
 ### Data Science:
 - **Python**
 - **Pandas**
@@ -25,4 +27,3 @@ I am a **Computer Engineering graduate** passionate about **Web Development**, *
 - **Matplotlib**
 - **Scikit-Learn**
 - **TensorFlow**
-
