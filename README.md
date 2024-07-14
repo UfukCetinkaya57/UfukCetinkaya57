@@ -30,7 +30,7 @@ I am a **Computer Engineering graduate** passionate about **Web Development**, *
 - **Scikit-Learn**
 - **TensorFlow**
 
-Some of the Languages and Tools I use:
+## Some of the Languages and Tools I use:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
