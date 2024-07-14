@@ -26,6 +26,3 @@ I am a **Computer Engineering graduate** passionate about **Web Development**, *
 - **Scikit-Learn**
 - **TensorFlow**
 
-## GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ufukcetinkaya_57&show_icons=true&theme=radical)
